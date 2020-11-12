@@ -30,17 +30,12 @@
         display: grid;
         grid-template-columns: 1fr 5fr;
         grid-template-rows: 2fr 3fr;
+        transition: 0.2s;
     }
-    .card_2 {
+    
+    .card_1:hover {
         background-color: #FFE9EC;
-        float: left;
-        width: 358px;
-        height: 122px;
-        padding: 14px 16px;
         border-left: 5px solid red;
-        display: grid;
-        grid-template-columns: 1fr 5fr;
-        grid-template-rows: 2fr 3fr;
     }
     
     .profile_content {
