@@ -32,6 +32,10 @@
         grid-template-rows: 2fr 3fr;
         transition: 0.2s;
     }
+<<<<<<< HEAD
+=======
+    
+>>>>>>> 61018030a5ac154019ebed646e760aa3306cc675
     .card_1:hover {
         background-color: #FFE9EC;
         border-left: 5px solid red;
